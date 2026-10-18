@@ -36,4 +36,4 @@ This project was completed as part of the Google Cybersecurity Professional Cert
 
 -Finally, a controls and compliance checklist was created to assess real and potential risks across all areas of the organization. This step included mapping controls to federal and international regulations and producing a comprehensive list for actionable recommendations to mitigate identified risks in the administrative, technical, and physical areas of the company.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/1bsJdNu"  ><a href="//imgur.com/a/1bsJdNu">Click Here to See the Controls and Compliance Checklist &amp; Assessment Recommendations</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/1bsJdNu"  ><a href="//imgur.com/a/1bsJdNu">Click Here to See the Controls and Compliance Checklist &amp; Assessment Recommendations</a></blockquote>
